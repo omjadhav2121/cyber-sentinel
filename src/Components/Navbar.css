@@ -1,0 +1,27 @@
+.sidebar {
+    background-color: #333; /* Change this to your desired background color */
+    color: white;
+    width: 200px; /* Adjust the width as needed */
+    padding: 20px;
+    margin-right: 20px; /* Add some margin between the sidebar and the content */
+    height: 100vh;
+  }
+  
+  .sidebar-list {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .sidebar-list li {
+    margin-bottom: 10px;
+  }
+  
+  .sidebar-list li a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .sidebar-list li a:hover {
+    color: lightgray; /* Change the color on hover as desired */
+  }
+  

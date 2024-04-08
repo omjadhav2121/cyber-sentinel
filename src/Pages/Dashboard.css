@@ -1,0 +1,11 @@
+/* Dashboard.css */
+
+.Dashboard {
+    
+    background-color: #f2f2f2; /* Background color for the dashboard content */
+    color: #333; /* Text color */
+    padding: 20px; /* Padding to create space around the content */
+    margin-left: 240px; /* Adjust this value to match the width of your sidebar */
+   
+  }
+  

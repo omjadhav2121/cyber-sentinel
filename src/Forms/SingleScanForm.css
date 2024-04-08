@@ -1,0 +1,49 @@
+/* SingleScanForm.css */
+
+.Single-form-container {
+    margin-top: 20px; /* Add space above the form */
+  }
+  
+  .Single-form {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .Single-form-label {
+    margin-bottom: 10px;
+  }
+  
+  .Single-form-input {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+  }
+  
+  .Single-form-button {
+    padding: 5px 10px;
+    margin-top: 10px;
+    background-color: #007bff; /* Button color */
+    color: white; /* Text color */
+    border: none;
+    cursor: pointer;
+  }
+  
+  .Single-form-button:hover {
+    background-color: #0056b3; /* Change button color on hover */
+  }
+  
+  /* SingleScanForm.css */
+
+.Single-form-label {
+    display: block; /* Make labels block-level elements */
+    margin-bottom: 10px; /* Add margin below each label */
+  }
+  
+  .Single-form-input {
+    padding: 5px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    width: 100%; /* Make input fields fill their container */
+    box-sizing: border-box; /* Include padding and border in input field's width */
+  }
+  
